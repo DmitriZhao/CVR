@@ -1,0 +1,6 @@
+__pycache__
+experiments
+model_weights
+build/
+*.egg
+*.egg-info
