@@ -44,7 +44,7 @@ RUN cd /tmp &&\
     pip install -r requirements.txt
 
 RUN cd /tmp &&\
-    git clone https://github.com/GitCVfb/CVR &&\
+    git clone https://github.com/DmitriZhao/CVR &&\
     cd CVR &&\
     cd ./package_correlation &&\
     python setup.py install &&\
