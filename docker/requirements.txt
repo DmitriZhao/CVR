@@ -3,7 +3,7 @@ tensorboardX
 Pillow
 scikit-image
 torchvision
-meshzoo
+meshzoo<=0.9.20
 path
 opencv-python<4
 imageio
